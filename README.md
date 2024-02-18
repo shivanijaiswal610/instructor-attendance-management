@@ -1,8 +1,8 @@
 ### API Endpoints
 
-check-in (POST /checkin/:instructorId)
-check-out (POST /checkout/:instructorId)
-monthly-report (GET /getMonthlyReport?month=2&year=2024)
+check-in (POST /api/checkin/:instructorId)
+check-out (POST /api/checkout/:instructorId)
+monthly-report (GET /api/getMonthlyReport?month=2&year=2024)
 
 
 
